@@ -14,10 +14,10 @@
   "use strict";
 
   const FIREBASE_CONFIG = Object.freeze({
-    projectId: "kronos-barber-club",
+    projectId: "julio-enterprise-suite",
     collection: "agendamentos_barbearia",
     storageKey: "fb_enterprise_agendamentos_barbearia_v4",
-    apiEndpoint: "https://firestore.googleapis.com/v1/projects/kronos-barber-club/databases/(default)/documents/agendamentos_barbearia",
+    apiEndpoint: "https://firestore.googleapis.com/v1/projects/julio-enterprise-suite/databases/(default)/documents/agendamentos_barbearia",
     timeoutMs: 4500
   });
 
